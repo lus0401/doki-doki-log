@@ -90,3 +90,5 @@ Pull requests welcome! Please open an `issue` first for feature suggestions or b
 ## 📄 License
 
 MIT © 2025 Hailey Lee
+# doki-doki-log
+Heartbeat logger for devs—turn emotions into pull requests ❤️
